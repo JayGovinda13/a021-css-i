@@ -1,0 +1,38 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.bloco{
+    color: whitesmoke;
+    padding-bottom: 0px;
+    padding-top:15px;
+    padding-left: 25px;
+    margin: 20px 0px -10px 10px;
+    width: 300px;  
+    height: 60px;
+}
+
+#bloco-1{
+    background-color: goldenrod;
+    border: solid orange 5px;
+}
+
+#bloco-2{
+    background-color: green;
+    border: solid greenyellow 5px;
+}
+
+#bloco-3{
+    background-color:darkgreen;
+    border: dashed limegreen 5px;
+}
+
+#bloco-4{
+    background-color: red;
+    border: dashed salmon 5px;
+}
+
+main{
+    font-family: Helvetica;
+}
